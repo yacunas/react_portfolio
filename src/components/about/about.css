@@ -1,0 +1,22 @@
+.about__container{
+    display: grid;
+    grid-template-columns: 5% 85%;
+    gap: 2rem;
+    background: var(--color-primary);
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: justify;
+    transition: var(--transition);
+}
+
+.about__container:hover{
+    box-shadow: 0 0 2.5rem rgba(0, 0, 0, 0.3) ;
+    cursor: default;
+}
+
+.about__icon{
+    /* margin-top: 20px; */
+    align-self: center;
+    width: 35px;
+    height: 35px;
+}
