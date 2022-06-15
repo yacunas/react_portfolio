@@ -11,7 +11,7 @@ const About = () => {
       <div className="container about__container">
         <BsCheckCircleFill className='about__icon'/>
         <p>
-          I describe my self as persistent, quick learner and enjoys problem solving by using simple yet scalable solutions.
+          I describe myself as persistent, quick learner and has a great interest in problem solving by utilizing simple yet scalable solutions.
         </p>
       </div>
 

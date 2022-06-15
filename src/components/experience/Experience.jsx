@@ -83,8 +83,15 @@ const Experience = () => {
             <article className='experience__details'>
               <BsCheckLg className='experience__details-icon'/>
               <div>
-                <h4>Flutter</h4>
+                <h4>Dart</h4>
                 <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsCheckLg className='experience__details-icon'/>
+              <div>
+                <h4>Swift</h4>
+                <small className='text-light'>Basic</small>
               </div>
             </article>
           </div>
